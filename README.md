@@ -1,5 +1,5 @@
 # csi-website
 CSI @MFU Website
 
-#Install
+# Install
 > npm install
